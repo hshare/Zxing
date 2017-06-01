@@ -29,7 +29,7 @@
                 android:textColor="#ffffff"
                 android:textSize="28sp" />
 
-            <com.gycl.view.MyyScrollView
+            <com.xys.libzxing.zxing.view.MyyScrollView
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:background="#ffffff"
@@ -68,7 +68,7 @@
                         android:textSize="13sp"
                         android:visibility="visible" />
                 </LinearLayout>
-            </com.gycl.view.MyyScrollView>
+            </com.xys.libzxing.zxing.view.MyyScrollView>
 
 
         </LinearLayout>
